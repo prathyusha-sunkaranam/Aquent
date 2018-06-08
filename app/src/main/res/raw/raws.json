@@ -1,0 +1,70 @@
+{
+"acquaint":[{
+
+"course_name":[
+{"co_name" : "C"},
+{"co_name" : "java"},
+{"co_name" : ".Net"},
+{"co_name" : "Php"},
+{"co_name" : "Android"},
+{"co_name" : "HTML"}
+],
+
+"C_concepts":[
+{"c_name":"c Concept one"},
+{"c_name":"c Concept two"},
+{"c_name":"c Concept three"},
+{"c_name":"c Concept four"},
+{"c_name":"c Concept five"},
+{"c_name":"c Concept six"}
+],
+
+
+"java_concepts":[
+{"java_name":"Java Concept one"},
+{"java_name":"Java Concept two"},
+{"java_name":"Java Concept three"},
+{"java_name":"Java Concept four"},
+{"java_name":"Java Concept five"},
+{"java_name":"Java Concept six"}
+],
+
+".Net_concepts":[
+{"net_name":".net Concept one"},
+{"net_name":".net Concept two"},
+{"net_name":".net Concept three"},
+{"net_name":".net Concept four"},
+{"net_name":".net Concept five"},
+{"net_name":".net Concept six"}
+],
+
+"php_concepts":[
+{"php_name":"php Concept one"},
+{"php_name":"php Concept two"},
+{"php_name":"php Concept three"},
+{"php_name":"php Concept four"},
+{"php_name":"php Concept five"},
+{"php_name":"php Concept six"}
+],
+
+"android_concepts":[
+{"android_name":"android Concept one"},
+{"android_name":"android Concept two"},
+{"android_name":"android Concept three"},
+{"android_name":"android Concept four"},
+{"android_name":"android Concept five"},
+{"android_name":"android Concept six"}
+],
+
+"html_concepts":[
+{"html_name":"html Concept one"},
+{"html_name":"html Concept two"},
+{"html_name":"html Concept three"},
+{"html_name":"html Concept four"},
+{"html_name":"html Concept five"},
+{"html_name":"html Concept six"}
+]
+
+}]
+
+}
