@@ -6,6 +6,7 @@ import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.widget.EditText;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import org.json.JSONArray;
 import org.json.JSONException;
@@ -45,7 +46,9 @@ public class MainActivity extends AppCompatActivity {
 
                     modelArrayList.add(new Model(
                             object1.getString("co_name")
+
                     ));
+                    Toast.makeText(this, "s", Toast.LENGTH_SHORT).show();
                 }
 
 
